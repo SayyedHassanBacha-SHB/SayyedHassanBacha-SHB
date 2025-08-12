@@ -78,5 +78,6 @@ Completed a 5-course program covering foundational to advanced Python skills, in
 
 ## Contact
 
-**LinkedIn:** [linkedin.com/in/sayyedhassanbacha](https://www.linkedin.com/in/sayyedhassanbacha)  
+**GitHub:** [github.com/SayyedHassanBacha-SHB](https://github.com/SayyedHassanBacha-SHB) 
+**LinkedIn:** [linkedin.com/in/SayyedHassanBacha-SHB](https://www.linkedin.com/in/SayyedHassanBacha-SHB)  
 **Email:** [shbai.tech@gmail.com](mailto:shbai.tech@gmail.com)
